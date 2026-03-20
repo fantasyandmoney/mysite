@@ -1,0 +1,21 @@
+header{
+    background-color: #0689e4;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    width: 100%;
+}
+    header:hover{
+        background-color: aquamarine;
+    }
+body{
+    background-image: image-set('aquabg.jpg');
+    display: grid;
+    justify-items: center;
+}
+main{
+    background-color: #6aa2cb;
+    display: flex;
+    justify-content: center;
+     width: 80%;
+}
